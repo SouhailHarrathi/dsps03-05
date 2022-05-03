@@ -1,3 +1,6 @@
 shop overview 
 working locally 
 will not affect my server 
+product 1: 
+product 2: 
+product 3:
